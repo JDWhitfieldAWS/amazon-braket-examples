@@ -1,0 +1,11 @@
+amazon-braket-sdk
+amazon-braket-pennylane-plugin
+cvxpy
+matplotlib
+nbconvert
+pandas
+pennylane
+pytest
+qiskit_braket_provider
+testbook
+jupyter
